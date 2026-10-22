@@ -9,12 +9,12 @@
     </td>
   </tr>
 
-  <!-- Row 2: Tech Stack Matrix (Asymmetric Left) & Real-time Language Ring (Right) -->
+  <!-- Row 2: Tech Stack Matrix & Real-time Language Ring -->
   <tr>
     <td width="65%" colspan="2" valign="top" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
       <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 1px;"/>
       <font color="#888888" size="2" face="monospace">PRODUCTION RUNTIMES</font><br/><br/>
-      <!-- Compact Language & DB Grid -->
+      <!-- Fixed Skill Icons API Endpoint -->
       <a href="https://github.com"><img src="https://skillicons.dev" alt="Technical Stack Layers" /></a>
       <br/><br/>
       <font color="#ffffff" size="2" face="-apple-system, BlinkMacSystemFont, Segoe UI">
@@ -24,12 +24,12 @@
     <td width="35%" valign="middle" align="center" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
       <img src="https://iconify.design" width="16" height="16" align="left" style="margin-left: 4px;"/>
       <font color="#888888" size="2" face="monospace">COMPUTED METRICS</font><br/><br/>
-      <!-- High Contrast Language / Activity Metrics Ring -->
+      <!-- Fixed Vercel Readme Stats SVG Endpoint -->
       <img src="https://vercel.app" width="100%" alt="Language Performance Index"/>
     </td>
   </tr>
 
-  <!-- Row 3: Featured Production Architecture (Green Focus Highlight) -->
+  <!-- Row 3: Featured Production Architecture -->
   <tr>
     <td colspan="3" bgcolor="#0d0d0d" style="padding: 24px; border-radius: 12px; border: 1px solid #238636;">
       <img src="https://iconify.design" width="18" height="18" align="left" style="margin-right: 8px; margin-top: 2px;"/>
@@ -53,7 +53,19 @@
     </td>
   </tr>
 
-  <!-- Row 5: Competitive Performance & System Trophies -->
+  <!-- Row 5: Surprise Live Status Block -->
+  <tr>
+    <td colspan="3" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
+      <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 2px;"/>
+      <font color="#888888" size="2" face="monospace">LIVE PLATFORM TELEMETRY</font><br/><br/>
+      <!-- Dynamic Real-time Contribution Graph & Streak Tracker -->
+      <p align="center">
+        <img src="https://herokuapp.com" width="100%" alt="Akhand's Live Commit Engine Streak" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 6: Competitive Performance & System Trophies -->
   <tr>
     <td colspan="3" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
       <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 2px;"/>
@@ -66,7 +78,7 @@
     </td>
   </tr>
 
-  <!-- Row 6: Structural Layout Footer Hyperlinks -->
+  <!-- Row 7: Structural Layout Footer Hyperlinks -->
   <tr>
     <td colspan="3" bgcolor="#0d0d0d" style="padding: 14px; border-radius: 12px; border: 1px solid #1f1f1f;" align="center">
       <font face="monospace" size="2">
