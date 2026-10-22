@@ -1,91 +1,41 @@
-<table width="100%" cellspacing="10" cellpadding="0" border="0">
-  <!-- Row 1: Header / Bio Card -->
-  <tr>
-    <td colspan="3" bgcolor="#0d0d0d" style="padding: 24px; border-radius: 12px; border: 1px solid #1f1f1f;">
-      <img src="https://iconify.design" width="18" height="18" align="left" style="margin-right: 8px; margin-top: 2px;"/>
-      <font color="#888888" size="2" face="monospace">SYSTEM EXECUTION</font><br/><br/>
-      <font color="#ffffff" size="5" face="-apple-system, BlinkMacSystemFont, Segoe UI"><b>Hi, I am Akhand</b></font><br/>
-      <font color="#888888" size="3" face="-apple-system, BlinkMacSystemFont, Segoe UI">Systems & Backend Developer based in India. I engineer high-throughput API layers, low-latency microservices, and self-correcting retrieval infrastructure.</font>
-    </td>
-  </tr>
+<h1 align="center">Hi 👋, I'm Akhand</h1>
+<h3 align="center">I am a Backend & AI Systems Developer based in India, currently focused on building scalable backend architectures, real-time sync engines, and production-grade RAG infrastructure.</h3>
 
-  <!-- Row 2: Tech Stack Matrix & Real-time Language Ring -->
-  <tr>
-    <td width="65%" colspan="2" valign="top" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
-      <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 1px;"/>
-      <font color="#888888" size="2" face="monospace">PRODUCTION RUNTIMES</font><br/><br/>
-      <!-- Fixed Skill Icons API Endpoint -->
-      <a href="https://github.com"><img src="https://skillicons.dev" alt="Technical Stack Layers" /></a>
-      <br/><br/>
-      <font color="#ffffff" size="2" face="-apple-system, BlinkMacSystemFont, Segoe UI">
-        <b>Core Architecture Focus:</b> Asynchronous ingestion queues, isolated multi-tenant data pipelines, atomic rate limiting, and vector index optimization.
-      </font>
-    </td>
-    <td width="35%" valign="middle" align="center" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
-      <img src="https://iconify.design" width="16" height="16" align="left" style="margin-left: 4px;"/>
-      <font color="#888888" size="2" face="monospace">COMPUTED METRICS</font><br/><br/>
-      <!-- Fixed Vercel Readme Stats SVG Endpoint -->
-      <img src="https://vercel.app" width="100%" alt="Language Performance Index"/>
-    </td>
-  </tr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhand0ps&label=Profile%20views&color=0e75b6&style=flat" alt="akhand0ps" /> </p>
 
-  <!-- Row 3: Featured Production Architecture -->
-  <tr>
-    <td colspan="3" bgcolor="#0d0d0d" style="padding: 24px; border-radius: 12px; border: 1px solid #238636;">
-      <img src="https://iconify.design" width="18" height="18" align="left" style="margin-right: 8px; margin-top: 2px;"/>
-      <font color="#238636" size="2" face="monospace">FEATURED CORE SYSTEMS</font><br/><br/>
-      <font color="#ffffff" size="4" face="-apple-system, BlinkMacSystemFont, Segoe UI"><b><a href="https://github.com/relay" style="color: #ffffff; text-decoration: none;">Relay — Event-Driven API Gateway</a></b></font> <font color="#888888" size="2" face="monospace">[Go]</font><br/>
-      <font color="#888888" size="3" face="-apple-system, BlinkMacSystemFont, Segoe UI">High-performance gateway engineered with asynchronous ingestion queues, delivery guarantees, strict idempotency checks, and built-in distributed token-bucket rate limiting.</font>
-    </td>
-  </tr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhand0ps" alt="akhand0ps" /></a> </p>
 
-  <!-- Row 4: Parallel Systems Components -->
-  <tr>
-    <td width="50%" colspan="1" valign="top" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
-      <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 2px;"/>
-      <font color="#ffffff" size="3" face="-apple-system, BlinkMacSystemFont, Segoe UI"><b><a href="https://github.com/vecta" style="color: #ffffff; text-decoration: none;">Vecta</a></b></font> <font color="#888888" size="1" face="monospace">[TS]</font><br/><br/>
-      <font color="#888888" size="2" face="-apple-system, BlinkMacSystemFont, Segoe UI">Multi-tenant workspace engine built using WebSockets, optimizing live sync to sub-15ms peer propagation with Redis atomic window loops.</font>
-    </td>
-    <td width="50%" colspan="2" valign="top" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
-      <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 2px;"/>
-      <font color="#ffffff" size="3" face="-apple-system, BlinkMacSystemFont, Segoe UI"><b><a href="https://github.com/atlas" style="color: #ffffff; text-decoration: none;">Atlas</a></b></font> <font color="#888888" size="1" face="monospace">[Python]</font><br/><br/>
-      <font color="#888888" size="2" face="-apple-system, BlinkMacSystemFont, Segoe UI">Enterprise knowledge retrieval engine utilizing Llama-3, cross-encoder reranking, and self-correcting agentic loops over Qdrant vector storage.</font>
-    </td>
-  </tr>
+<p align="left"> <a href="https://twitter.com/akhand_06x" target="blank"><img src="https://img.shields.io/twitter/follow/akhand_06x?logo=twitter&style=for-the-badge" alt="akhand_06x" /></a> </p>
 
-  <!-- Row 5: Surprise Live Status Block -->
-  <tr>
-    <td colspan="3" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
-      <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 2px;"/>
-      <font color="#888888" size="2" face="monospace">LIVE PLATFORM TELEMETRY</font><br/><br/>
-      <!-- Dynamic Real-time Contribution Graph & Streak Tracker -->
-      <p align="center">
-        <img src="https://herokuapp.com" width="100%" alt="Akhand's Live Commit Engine Streak" />
-      </p>
-    </td>
-  </tr>
+- 🔭 I’m currently working on [relay](github.com/akhand0ps/relay)
 
-  <!-- Row 6: Competitive Performance & System Trophies -->
-  <tr>
-    <td colspan="3" bgcolor="#0d0d0d" style="padding: 20px; border-radius: 12px; border: 1px solid #1f1f1f;">
-      <img src="https://iconify.design" width="16" height="16" align="left" style="margin-right: 8px; margin-top: 2px;"/>
-      <font color="#888888" size="2" face="monospace">ENGINEERING COMPETITIONS & LOGS</font><br/><br/>
-      <font color="#ffffff" size="2" face="-apple-system, BlinkMacSystemFont, Segoe UI">
-        • <b>Winner (AI System Engineering Track)</b> — Centific Premier Hackathon 2.0 (Hyderabad) <br/>
-        • <b>National Finalist</b> — Odoo Hackathon 2026 (24-Hour Offline Systems Prototyping at HQ) <br/>
-        • <b>2nd Place Rank</b> — Google Developer Group (GDG) AI Engineering Competition (100+ Architects)
-      </font>
-    </td>
-  </tr>
+- 🌱 I’m currently learning **Go, Distributed Systems, AI Agents**
 
-  <!-- Row 7: Structural Layout Footer Hyperlinks -->
-  <tr>
-    <td colspan="3" bgcolor="#0d0d0d" style="padding: 14px; border-radius: 12px; border: 1px solid #1f1f1f;" align="center">
-      <font face="monospace" size="2">
-        <a href="https://akhand.me" style="color: #ffffff; text-decoration: none; margin: 0 20px;">🌐 akhand.me</a>
-        <a href="https://linkedin.com" style="color: #ffffff; text-decoration: none; margin: 0 20px;">💼 LinkedIn</a>
-        <a href="https://cal.com" style="color: #ffffff; text-decoration: none; margin: 0 20px;">🗓️ Cal Sync</a>
-      </font>
-    </td>
-  </tr>
-</table>
+- 👯 I’m looking to collaborate on **Backend systems, Go, and developer infrastructure**
+
+- 🤝 I’m looking for help with [Distributed Systems & Reliable Event Processing](github.com/akhand0ps/relay)
+
+- 👨‍💻 All of my projects are available at [akhand.me](akhand.me)
+
+- 💬 Ask me about **Node.js, TypeScript, PostgreSQL, Redis, WebSockets, RAG**
+
+- 📫 How to reach me **akhandps08@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xgdicHA0fEVjYTyws_nxvz2-A9uwREQT?usp=drive_link](https://drive.google.com/drive/folders/1xgdicHA0fEVjYTyws_nxvz2-A9uwREQT?usp=drive_link)
+
+- ⚡ Fun fact **I enjoy building systems from scratch and understanding how they work internally.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/akhand.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akhand.me" height="30" width="40" /></a>
+<a href="https://twitter.com/akhand_06x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhand_06x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akhand0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhand0ps" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand0ps&show_icons=true&locale=en&layout=compact" alt="akhand0ps" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand0ps&" alt="akhand0ps" /></p>
+
